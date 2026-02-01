@@ -1,4 +1,4 @@
 # web-demo
 This is my first Git Repository
 <br>
-Author - Sujeet Deo
+Author - Sujeet deo
